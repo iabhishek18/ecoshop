@@ -1,5 +1,11 @@
 # EcoShop
 
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
+
+</div>
+
 A premium e-commerce single page application built with Next.js, TypeScript, and Tailwind CSS. A clean, dependency-light storefront with product browsing, cart management, authentication, and a complete checkout flow.
 
 ## Features
@@ -21,6 +27,16 @@ A premium e-commerce single page application built with Next.js, TypeScript, and
 | Language | TypeScript |
 | Styling | Tailwind CSS |
 | State | React hooks |
+
+## 📸 Screenshots
+
+### Home — Hero
+
+![Home — Hero](screenshots/home.png)
+
+### Product Grid
+
+![Product Grid](screenshots/products.png)
 
 ## Getting Started
 
